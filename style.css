@@ -54,7 +54,7 @@ footer{
 }
 
 .myself{
-    margin: 50px;
+    margin: 10px;
     border: 3px solid linear-gradient(56deg,#c167f5e3,#3a6eb8);;
     border-radius: 12px;
     padding: 24px;
@@ -68,7 +68,7 @@ footer{
 }
 
 .more{
-    margin: 50px;
+    margin: 10px;
     border: 3px solid linear-gradient(56deg,#461761e3,#3a6eb8);;
     border-radius: 12px;
     padding: 24px;
